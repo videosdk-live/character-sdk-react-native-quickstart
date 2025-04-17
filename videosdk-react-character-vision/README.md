@@ -39,8 +39,9 @@ A quickstart React Native example to showcase **real-time, face-to-face interact
 Clone the repository to your local environment.
 
 ```js
-git clone https://github.com/videosdk-live/quickstart.git
-cd quickstart/react-native
+git clone https://github.com/videosdk-live/character-sdk-react-native-quickstart
+cd character-sdk-react-native-quickstart
+cd videosdk-react-character-vision
 ```
 
 ### Step 2: Update the `api.js` file.
